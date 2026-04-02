@@ -151,13 +151,8 @@ Through this project, the following concepts were learned:
 
 ## Author
 
-Name: Your Name
-Course: Your Course Name
-Institution: VIT
+Name: Devashish Aswal
+Registration number:23BCE10273
+Course: Programming in Java
+Institution: VIT Bhopal University
 Year: 2026
-
----
-
-## License
-
-This project is developed for academic purposes.
